@@ -1,6 +1,6 @@
 # todos-user
 
-The app is a Restful API built with mongodb, express, node.js. 
+The app is a Restful API built with mongodb, mongoose, express, and node.js. 
 
 It allows different users to sign up, sign in, and do CRUD operations of their own todos.
 
