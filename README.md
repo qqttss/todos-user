@@ -1,8 +1,8 @@
 # todos-user
 
-The app is Restful API build with mongodb, express, node.js. 
+The app is a Restful API build with mongodb, express, node.js. 
 
-It allows different users to sign up, sign in, and do CRUD operation of their own todos.
+It allows different users to sign up, sign in, and do CRUD operations of their own todos.
 
 User passwords are hashed before storing in MongoDB and authentication is implemented with JWT.
 
