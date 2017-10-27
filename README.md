@@ -6,4 +6,4 @@ It allows different users to sign up, sign in, and do CRUD operations of their o
 
 User passwords are hashed before storing in MongoDB and authentication is implemented with JWT.
 
-You can use postman to interact with the backend.
+You need to use postman to interact with the backend.
